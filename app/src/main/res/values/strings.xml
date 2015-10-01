@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Prayer</string>
+
+    <string name="content1">บทสวดมนต์</string>
+    <string name="content2">ศาสนาพิธี</string>
+    <string name="content3">เรื่องน่ารู้</string>
+    <string name="content4">เกี่ยวกับผู้เขียน</string>
+
+
 </resources>
