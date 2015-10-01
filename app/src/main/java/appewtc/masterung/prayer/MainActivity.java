@@ -60,7 +60,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intImage = 2;
                 break;
             case R.id.imageView4:
-                intImage = 3;
+
+                startActivity(new Intent(this, AboutMeActivity.class));
+
                 break;
             default:
                 intImage = 0;

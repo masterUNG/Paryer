@@ -8,6 +8,8 @@ public class ListviewActivity extends AppCompatActivity {
 
     //Explicit
     private int indexAnInt;
+    private String[] title1Strings, title2Strings, title3Strings,
+            content1Strings, content2Strings, content3Strings;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
