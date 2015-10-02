@@ -19,7 +19,18 @@ public class ListviewActivity extends AppCompatActivity {
         //Receive From Intent
         receiveFromIntent();
 
+        //CreateListView
+        createListView();
+
     }   // onCreate
+
+    private void createListView() {
+
+        //Get Title from xml
+        title1Strings = getResources().getStringArray(R.array.contentltitle);
+        Log.d("Prayer", "Title ==> " + Integer.toString(title1Strings.length));
+
+    }   // createListView
 
     private void receiveFromIntent() {
 
