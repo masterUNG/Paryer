@@ -23,6 +23,7 @@
             <ImageView
                 android:layout_width="@dimen/icon"
                 android:layout_height="@dimen/icon"
+                android:onClick="clickMemu"
                 android:id="@+id/imageView"
                 android:src="@drawable/content1"
                 android:layout_weight="1" />

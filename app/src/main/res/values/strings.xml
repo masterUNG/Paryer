@@ -6,5 +6,12 @@
     <string name="content3">เรื่องน่ารู้</string>
     <string name="content4">เกี่ยวกับผู้เขียน</string>
 
+    <string name="menu1">บทสวดมนต์</string>
+    <string name="menu2">เมนู2</string>
+    <string name="menu3">เมนู3</string>
+    <string name="menu4">เมนู4</string>
+    <string name="menu5">เมนู5</string>
+    <string name="menu6">เมนู6</string>
+
 
 </resources>

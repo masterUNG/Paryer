@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
@@ -46,12 +45,12 @@ public class MyAdapter extends BaseAdapter{
         View objView1 = objLayoutInflater.inflate(R.layout.content_listview, viewGroup, false);
 
         //Setup Icon
-        ImageView iconImageView = (ImageView) objView1.findViewById(R.id.imvListIcon);
-        iconImageView.setImageResource(iconAnInt);
+        //ImageView iconImageView = (ImageView) objView1.findViewById(R.id.imvListIcon);
+        //iconImageView.setImageResource(iconAnInt);
 
         //Setup Title
         TextView titleTextView = (TextView) objView1.findViewById(R.id.txtListTitle);
-        titleTextView.setText(titleStrings[i]);
+        titleTextView.setText(Integer.toString(i+1)+ ". " + titleStrings[i]);
 
         return objView1;
     }   // getView

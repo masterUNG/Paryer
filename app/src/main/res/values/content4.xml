@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title_content4">
+
+        <item>ชื่อหัวข้อที่ 1</item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+
+    <string-array name="content_content4">
+
+        <item>ข้อความที่ 1</item>
+        <item></item>
+        <item></item>
+
+
+    </string-array>
+
+
+</resources>
