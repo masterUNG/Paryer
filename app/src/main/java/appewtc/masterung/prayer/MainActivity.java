@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         }   // switch
 
+
         //Intent to ListviewActivity
         intentToListView(intImage);
 
