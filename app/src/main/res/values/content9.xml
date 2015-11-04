@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="title_content3">
+    <string-array name="title_content9">
 
         <item>1</item>
         <item>2</item>
@@ -10,10 +10,9 @@
         <item>5</item>
         <item>6</item>
 
-
     </string-array>
 
-    <string-array name="content_content3">
+    <string-array name="content_content9">
 
         <item>11</item>
         <item>22</item>
@@ -22,6 +21,8 @@
         <item>55</item>
         <item>66</item>
 
+
     </string-array>
+
 
 </resources>
