@@ -10,6 +10,13 @@
     <string name="content7">เมนู 5</string>
     <string name="content8">เมนู 6</string>
 
+    <string name="aboutme">ผู้จัดทำ</string>
+    <string name="name">มาสเตอร์ อึ่ง</string>
+    <string name="idcard">รหัสนักศึกษา 3115050-1</string>
+    <string name="year">ปีการศึกษา 2558</string>
+    <string name="year1">ชั่นปีที 4</string>
+    <string name="univercity">มหาลัยของฉัน</string>
+
 
     <string name="menu1">บทสวดมนต์</string>
     <string name="menu2">เมนู2</string>
