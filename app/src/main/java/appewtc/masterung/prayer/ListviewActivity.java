@@ -81,6 +81,33 @@ public class ListviewActivity extends AppCompatActivity {
                 iconAnInt = R.drawable.content3;
                 titleStrings = getResources().getStringArray(R.array.title_content3);
                 break;
+            case 4:
+                strTitle = getResources().getString(R.string.menu2);
+                iconAnInt = R.drawable.content1;
+                titleStrings = getResources().getStringArray(R.array.title_content4);
+                break;
+            case 5:
+                strTitle = getResources().getString(R.string.menu3);
+                iconAnInt = R.drawable.content1;
+                titleStrings = getResources().getStringArray(R.array.title_content5);
+                break;
+            case 6:
+                strTitle = getResources().getString(R.string.menu4);
+                iconAnInt = R.drawable.content1;
+                titleStrings = getResources().getStringArray(R.array.title_content6);
+                break;
+            case 7:
+                strTitle = getResources().getString(R.string.menu5);
+                iconAnInt = R.drawable.content1;
+                titleStrings = getResources().getStringArray(R.array.title_content7);
+                break;
+            case 8:
+                strTitle = getResources().getString(R.string.menu6);
+                iconAnInt = R.drawable.content1;
+                titleStrings = getResources().getStringArray(R.array.title_content8);
+                break;
+
+
             default:
                 strTitle = "Nothing";
                 iconAnInt = R.drawable.content1;

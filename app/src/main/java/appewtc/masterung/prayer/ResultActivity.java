@@ -36,8 +36,6 @@ public class ResultActivity extends AppCompatActivity {
     }
 
 
-
-
     private void showView() {
 
         //Receive from Intent
@@ -72,9 +70,6 @@ public class ResultActivity extends AppCompatActivity {
 
         //Show Detail
         detailTextView.setText(strDetail[positionAnInt]);
-
-
-
 
 
     }   // showView
