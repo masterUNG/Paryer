@@ -8,7 +8,7 @@
     <dimen name="h1">25sp</dimen>
     <dimen name="h2">20sp</dimen>
     <dimen name="linnear">400dp</dimen>
-    <dimen name="height">200dp</dimen>
+    <dimen name="height">400dp</dimen>
     <dimen name="menu">150dp</dimen>
 
 

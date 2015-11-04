@@ -59,9 +59,29 @@ public class ResultActivity extends AppCompatActivity {
                 strTitle = getResources().getString(R.string.content3);
                 strDetail = getResources().getStringArray(R.array.content_content3);
                 break;
+            case 4:
+                strTitle = getResources().getString(R.string.content4);
+                strDetail = getResources().getStringArray(R.array.content_content4);
+                break;
+            case 5:
+                strTitle = getResources().getString(R.string.content5);
+                strDetail = getResources().getStringArray(R.array.content_content5);
+                break;
+            case 6:
+                strTitle = getResources().getString(R.string.content6);
+                strDetail = getResources().getStringArray(R.array.content_content6);
+                break;
+            case 7:
+                strTitle = getResources().getString(R.string.content7);
+                strDetail = getResources().getStringArray(R.array.content_content7);
+                break;
+            case 8:
+                strTitle = getResources().getString(R.string.content8);
+                strDetail = getResources().getStringArray(R.array.content_content8);
+                break;
             default:
-                strTitle = "Nothing";
-                strDetail = null;
+                strTitle = getResources().getString(R.string.content8);
+                strDetail = getResources().getStringArray(R.array.content_content8);
                 break;
         }   // switch
 
@@ -77,7 +97,7 @@ public class ResultActivity extends AppCompatActivity {
     private void bindWidget() {
         titleTextView = (TextView) findViewById(R.id.txtResultTitle);
         detailTextView = (TextView) findViewById(R.id.txtResultDetail);
-        iconImageView = (ImageView) findViewById(R.id.imvResultIcon);
+
     }
 
 }   // Main Class
