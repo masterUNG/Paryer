@@ -17,10 +17,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ListviewActivity"></activity>
-        <activity android:name=".AboutMeActivity"></activity>
-        <activity android:name=".ResultActivity"></activity>
-        <activity android:name=".MenuActivityActivity"></activity>
+        <activity android:name=".ListviewActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".AboutMeActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".ResultActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".MenuActivityActivity" android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>
