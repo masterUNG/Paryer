@@ -79,7 +79,7 @@
                 android:layout_height="@dimen/icon"
                 android:onClick="clickAboutMe"
                 android:id="@+id/imageView4"
-                android:src="@drawable/menu1"
+                android:src="@drawable/masterung_icon"
                 android:layout_weight="1" />
         </LinearLayout>
 
