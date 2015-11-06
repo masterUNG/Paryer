@@ -65,14 +65,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         int intImage = 0;
 
         switch (view.getId()) {
-            case R.id.imageView:
 
-
-
-                break;
             case R.id.imageView2:
                 intImage = 1;
                 break;
+
             case R.id.imageView3:
                 intImage = 2;
                 break;
