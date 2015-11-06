@@ -8,8 +8,8 @@
     <dimen name="h1">45sp</dimen>
     <dimen name="h2">35sp</dimen>
     <dimen name="linnear">600dp</dimen>
-    <dimen name="height">400dp</dimen>
-    <dimen name="menu">150dp</dimen>
+    <dimen name="height">800dp</dimen>
+    <dimen name="menu">300dp</dimen>
 
 
 </resources>
